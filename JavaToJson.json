@@ -1,0 +1,18 @@
+
+[ {
+
+  "studId" : 210,
+
+  "studName" : "John",
+
+  "studSkill" : "Java"
+
+}, {
+
+  "studId" : 211,
+
+  "studName" : "Nick",
+
+  "studSkill" : "Python"
+
+} ]

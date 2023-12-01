@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <name> Oluwayemisi Ismail</name>
+    <phone-number>
+        <work> 09076543456</work>
+        <home>070324564455</home>
+    </phone-number>
+    <address>
+        <city>Kaduna</city>
+        <house-no> eb2 ungwan shanu</house-no>
+        <postal-code>656786</postal-code>
+        <state>Kaduna</state>
+    </address>
+    <department>
+        <name> IT</name>
+        <manager>
+            <name> Daniel</name>
+            <phone-number>
+                <work> 056743456445 </work>
+            </phone-number>
+        </manager>
+    </department>
+</employee>
